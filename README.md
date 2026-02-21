@@ -17,33 +17,33 @@ The **Smart Exam Seat Allocation System** is a mobile application developed at *
 ---
 
 ## 🎯 Objectives
-* **Automation:** Eliminates manual, error-prone work in creating seating charts[cite: 28].
-* **Fairness:** Uses an alternating seating logic to separate students by Level-Team to prevent malpractice[cite: 29].
-* **Accessibility:** Provides students instant access to their hall and seat numbers via mobile[cite: 30].
-* **Real-time Updates:** Uses push notifications to inform students of assignments instantly[cite: 31].
+* **Automation:** Eliminates manual, error-prone work in creating seating charts.
+* **Fairness:** Uses an alternating seating logic to separate students by Level-Team to prevent malpractice.
+* **Accessibility:** Provides students instant access to their hall and seat numbers via mobile.
+* **Real-time Updates:** Uses push notifications to inform students of assignments instantly.
 
 ---
 
 ## ✨ Key Features
 
 ### 🔐 Multi-Role Architecture
-* [cite_start]**Main Admin:** Manages users (Students/Teachers) and promotes faculty to "Exam Admin"[cite: 24, 41].
-* [cite_start]**Teacher (Admin):** Performs CRUD operations on Exams and Halls, and generates the seat plan with one click[cite: 42, 43].
-* [cite_start]**Student:** Logs in with a unique Roll ID to view assigned hall and seat numbers[cite: 45].
+* **Main Admin:** Manages users (Students/Teachers) and promotes faculty to "Exam Admin".
+* **Teacher (Admin):** Performs CRUD operations on Exams and Halls, and generates the seat plan with one click.
+* **Student:** Logs in with a unique Roll ID to view assigned hall and seat numbers.
 
 ### 🛠 Administrative Power
-* [cite_start]**Dynamic Hall Setup:** Teachers can define hall layouts (rows, columns, benches) with live capacity calculation[cite: 54, 135].
-* [cite_start]**Seating Algorithm:** Validates concurrent exams and applies alternating logic for fairness[cite: 47, 56].
-* [cite_start]**Notification System:** Firebase Cloud Messaging (FCM) alerts all involved students once a plan is generated[cite: 59].
+* **Dynamic Hall Setup:** Teachers can define hall layouts (rows, columns, benches) with live capacity calculation.
+* **Seating Algorithm:** Validates concurrent exams and applies alternating logic for fairness.
+* **Notification System:** Firebase Cloud Messaging (FCM) alerts all involved students once a plan is generated.
 
 ---
 
 ## 💻 Technologies Used
-* [cite_start]**Frontend:** Flutter [cite: 182]
-* [cite_start]**Backend:** Firebase (Auth, Firestore, Cloud Functions) [cite: 183, 184, 186, 188]
-* [cite_start]**Push Notifications:** Firebase Cloud Messaging (FCM) [cite: 187]
-* [cite_start]**Prototyping:** Figma [cite: 189]
-* [cite_start]**Version Control:** Git & GitHub [cite: 190]
+* **Frontend:** Flutter 
+* **Backend:** Firebase (Auth, Firestore, Cloud Functions) 
+* **Push Notifications:** Firebase Cloud Messaging (FCM) 
+* **Prototyping:** Figma 
+* **Version Control:** Git & GitHub
 
 ---
 
@@ -54,8 +54,8 @@ The **Smart Exam Seat Allocation System** is a mobile application developed at *
 ### Authentication & Roles
 | Get Started | Admin Login | Teacher Login | Student Login |
 | :---: | :---: | :---: | :---: |
-| ![Get Started](assets/fig01.png) | ![Admin Login](assets/fig02.png) | ![Teacher Login](assets/fig03.png) | ![Student Login](assets/fig04.png) |
-| [cite_start]*Splash Screen* [cite: 62] | [cite_start]*Main Admin* [cite: 75] | [cite_start]*Faculty Access* [cite: 76] | [cite_start]*Student Access* [cite: 77] |
+| ![Get Started](<img width="1152" height="2496" alt="Screenshot_20251115-233009" src="https://github.com/user-attachments/assets/9ad06415-fbef-44ca-a6c6-2ac892984504" />) | ![Admin Login](<img width="1152" height="2496" alt="Screenshot_20251115-233017" src="https://github.com/user-attachments/assets/fc7de341-bc88-456a-acda-9a91f83fd611" />) | ![Teacher Login](<img width="1152" height="2496" alt="Screenshot_20251115-233245" src="https://github.com/user-attachments/assets/68717e93-5b3b-40a0-a553-be2f5bb5bd45" />) | ![Student Login](<img width="1152" height="2496" alt="Screenshot_20251115-233614" src="https://github.com/user-attachments/assets/3fc38a73-116e-4c90-813a-5b418b645d15" />) |
+| *Splash Screen*  | *Main Admin*  | *Faculty Access*  | *Student Access*  |
 
 ### Management Dashboards
 | Admin Dashboard | Add Course | All Exams | Hall Management |
@@ -83,4 +83,5 @@ The **Smart Exam Seat Allocation System** is a mobile application developed at *
 [cite_start]ID: 0802320205101090 [cite: 12]  
 [cite_start]Level: 3, Term: I [cite: 13, 14]  
 [cite_start]**Department of CSE, BAUST** [cite: 2]
+
 
