@@ -1,4 +1,4 @@
-<img width="1152" height="2496" alt="Screenshot_20251115-233507" src="https://github.com/user-attachments/assets/35afcad0-b1e1-4fa0-8ba5-ab3f43f6a94d" /># Smart Exam Seat Allocation System 🎓
+# Smart Exam Seat Allocation System 🎓
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
@@ -83,6 +83,7 @@ The **Smart Exam Seat Allocation System** is a mobile application developed at *
 ID: 0802320205101090 
 [cite_start]Level: 3, Term: I [cite: 13, 14]  
 [cite_start]**Department of CSE, BAUST** [cite: 2]
+
 
 
 
