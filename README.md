@@ -4,7 +4,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
-[cite_start]The **Smart Exam Seat Allocation System** is a mobile application developed at **Bangladesh Army University of Science and Technology (BAUST)**[cite: 1, 22]. [cite_start]It automates and modernizes the university exam seating process using a role-based platform built with **Flutter** and **Firebase**[cite: 22, 23].
+The **Smart Exam Seat Allocation System** is a mobile application developed at **Bangladesh Army University of Science and Technology (BAUST)**. It automates and modernizes the university exam seating process using a role-based platform built with **Flutter** and **Firebase**.
 
 ## 📖 Table of Contents
 * [Objectives](#-objectives)
@@ -17,10 +17,10 @@
 ---
 
 ## 🎯 Objectives
-* [cite_start]**Automation:** Eliminates manual, error-prone work in creating seating charts[cite: 28].
-* [cite_start]**Fairness:** Uses an alternating seating logic to separate students by Level-Team to prevent malpractice[cite: 29].
-* [cite_start]**Accessibility:** Provides students instant access to their hall and seat numbers via mobile[cite: 30].
-* [cite_start]**Real-time Updates:** Uses push notifications to inform students of assignments instantly[cite: 31].
+* **Automation:** Eliminates manual, error-prone work in creating seating charts[cite: 28].
+* **Fairness:** Uses an alternating seating logic to separate students by Level-Team to prevent malpractice[cite: 29].
+* **Accessibility:** Provides students instant access to their hall and seat numbers via mobile[cite: 30].
+* **Real-time Updates:** Uses push notifications to inform students of assignments instantly[cite: 31].
 
 ---
 
@@ -83,3 +83,4 @@
 [cite_start]ID: 0802320205101090 [cite: 12]  
 [cite_start]Level: 3, Term: I [cite: 13, 14]  
 [cite_start]**Department of CSE, BAUST** [cite: 2]
+
