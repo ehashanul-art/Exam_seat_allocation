@@ -61,27 +61,28 @@ The **Smart Exam Seat Allocation System** is a mobile application developed at *
 | Admin Dashboard | Add Course | All Exams | Hall Management |
 | :---: | :---: | :---: | :---: |
 | ![Admin](assets/fig05.png) | ![Add Course](assets/fig08.png) | ![All Exams](assets/fig11.png) | ![Add Hall](assets/fig14.png) |
-| [cite_start]*Control Center* [cite: 79] | [cite_start]*Course Linking* [cite: 82] | [cite_start]*Exam List* [cite: 103] | [cite_start]*Layout Setup* [cite: 135] |
+| *Control Center*  | *Course Linking*  | *Exam List*  | *Layout Setup*  |
 
 ### Generation & Results
 | Seat Plan Generator | Seat Plan List | Seat Map Viewer | Student Dashboard |
 | :---: | :---: | :---: | :---: |
 | ![Generator](assets/fig16.png) | ![Plan List](assets/fig17.png) | ![Map](assets/fig18.png) | ![Student Dash](assets/fig19.png) |
-| [cite_start]*Algorithm Logic* [cite: 177] | [cite_start]*History* [cite: 178] | [cite_start]*Visual Grid* [cite: 179] | [cite_start]*Seat Assignment* [cite: 180] |
+| *Algorithm Logic*  | *History*  | *Visual Grid*  | *Seat Assignment*  |
 
 ---
 
 ## 🚀 Future Work
-* [cite_start]**Advanced Schedule Solver:** A "Master Generate" button for university-wide scheduling[cite: 206].
-* [cite_start]**Data Import:** Bulk upload students via .csv files[cite: 208].
-* [cite_start]**Admin Analytics:** Statistics on hall utilization and seating efficiency[cite: 209].
-
+* **Advanced Schedule Solver:** A "Master Generate" button for university-wide scheduling .
+* **Data Import:** Bulk upload students via .csv files.
+* **Admin Analytics:** Statistics on hall utilization and seating efficiency.
+  
 ---
 
 ## 👨‍💻 Author
-[cite_start]**Ehashanul Haque** [cite: 11]  
-[cite_start]ID: 0802320205101090 [cite: 12]  
+**Ehashanul Haque**  
+ID: 0802320205101090 
 [cite_start]Level: 3, Term: I [cite: 13, 14]  
 [cite_start]**Department of CSE, BAUST** [cite: 2]
+
 
 
